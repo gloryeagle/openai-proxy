@@ -19,7 +19,7 @@
     - 请求处理程序类型：处理HTTP请求
 - 函数代码
     - 运行环境：Nodejs 16.13（或者更高的版本）
-    - 函数代码：本地上传zip包（[点我下载 ZIP 包](https://github.com/Ice-Hazymoon/openai-scf-proxy/releases/download/0.0.3/openai-proxy.zip)）
+    - 函数代码：本地上传zip包（[点我下载 ZIP 包](https://codeload.github.com/gloryeagle/openai-proxy/zip/refs/heads/main)）
     - 启动命令：node app.js
     - 监听端口：9000
 - 高级配置
