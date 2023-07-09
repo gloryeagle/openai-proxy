@@ -73,7 +73,7 @@ PS：本教程不仅仅针对云函数，你也可以托管在自己的服务器
 愉快的与 OpenAI 一起冲浪吧~
 
 ## 联系
-项目细节，并与开发者们交流更多关于AI技术的实践，欢迎加入星球:
+项目细节，并与开发者们交流更多关于AI技术的实践，欢迎加入星球 https://t.zsxq.com/0fuTSuAyZ:
 
 <a href="https://t.zsxq.com/0fuTSuAyZ"><img width="360" src="./README.png"></a>
 
